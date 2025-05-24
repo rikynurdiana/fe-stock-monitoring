@@ -11,6 +11,7 @@ Aplikasi pemantau pasar saham real-time yang dibangun dengan Next.js dan Socket.
 - Indikator perubahan harga dengan kode warna
 - Desain responsif untuk semua ukuran layar
 - Dukungan mode gelap
+- Sudah bisa integrasi dengan data REAL yang diambil dari YFinance
 
 ## Teknologi yang Digunakan
 
